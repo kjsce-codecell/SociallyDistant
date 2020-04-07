@@ -1,0 +1,79 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "akshay-99",
+      "name": "Akshay Padte",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/38867671?v=4",
+      "profile": "https://github.com/akshay-99",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "Techno-Disaster",
+      "name": "Jayesh Nirve",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/52817235?v=4",
+      "profile": "http://technodisaster.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nachiketbhuta",
+      "name": "Nachiket Bhuta",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/30868728?v=4",
+      "profile": "https://nachiketbhuta.co",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "neelansh15",
+      "name": "Neelansh Mathur",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/53081208?v=4",
+      "profile": "https://github.com/neelansh15",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "RusherRG",
+      "name": "Rushang Gajjal",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/35848285?v=4",
+      "profile": "https://github.com/RusherRG",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Syn3rman",
+      "name": "Aditya Prajapati",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/31011197?v=4",
+      "profile": "https://github.com/Syn3rman",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hetzz",
+      "name": "Hetal Kuvadia",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/39834439?v=4",
+      "profile": "https://github.com/hetzz",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "SociallyDistant",
+  "projectOwner": "kjsce-codecell",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

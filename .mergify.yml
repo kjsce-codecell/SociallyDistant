@@ -1,0 +1,7 @@
+pull_request_rules:
+  - name: Automatic merge on approval
+    conditions:
+      - author=allcontributors[bot]
+    actions:
+      merge:
+        method: squash
