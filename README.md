@@ -1,6 +1,6 @@
 # SociallyDistant
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Challenges to keep you busy during quarantine
 
@@ -12,6 +12,7 @@ Challenges to keep you busy during quarantine
 <table>
   <tr>
     <td align="center"><a href="https://github.com/akshay-99"><img src="https://avatars0.githubusercontent.com/u/38867671?v=4" width="100px;" alt=""/><br /><sub><b>Akshay Padte</b></sub></a><br /><a href="https://github.com/akshay-99/SociallyDistant/commits?author=akshay-99" title="Documentation">📖</a> <a href="https://github.com/akshay-99/SociallyDistant/commits?author=akshay-99" title="Code">💻</a></td>
+    <td align="center"><a href="http://technodisaster.me"><img src="https://avatars0.githubusercontent.com/u/52817235?v=4" width="100px;" alt=""/><br /><sub><b>Jayesh Nirve</b></sub></a><br /><a href="https://github.com/akshay-99/SociallyDistant/commits?author=Techno-Disaster" title="Code">💻</a></td>
   </tr>
 </table>
 
