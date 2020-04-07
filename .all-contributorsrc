@@ -41,11 +41,20 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "RusherRG",
+      "name": "Rushang Gajjal",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/35848285?v=4",
+      "profile": "https://github.com/RusherRG",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "SociallyDistant",
-  "projectOwner": "akshay-99",
+  "projectOwner": "kjsce-codecell",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
