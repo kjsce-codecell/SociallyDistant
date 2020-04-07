@@ -10,6 +10,9 @@ Challenges to keep you busy during quarantine
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
+  <tr>
+    <td align="center"><a href="https://github.com/akshay-99"><img src="https://avatars0.githubusercontent.com/u/38867671?v=4" width="100px;" alt=""/><br /><sub><b>Akshay Padte</b></sub></a><br /><a href="https://github.com/akshay-99/SociallyDistant/commits?author=akshay-99" title="Documentation">📖</a> <a href="https://github.com/akshay-99/SociallyDistant/commits?author=akshay-99" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
