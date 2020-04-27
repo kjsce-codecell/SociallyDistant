@@ -12,7 +12,7 @@ The challenges will be in reference to various Topics ranging from Automation De
 
 
 To participate, kindly join us on discord https://discord.gg/uZp7usX  
-Also **mark yourself as a partcipant** going to [this link](https://github.com/kjsce-codecell/SociallyDistant/issues/1) and commenting the following   
+Also **mark yourself as a participant** going to [this link](https://github.com/kjsce-codecell/SociallyDistant/issues/1) and commenting the following   
 `@allcontributors please add @<your_username> for code`   
 A nice bot will take care of the rest! After a few minutes come back to this page (and refresh!) to check if your name has been added to the list of participants below.
 
