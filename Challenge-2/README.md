@@ -117,7 +117,7 @@ Reflectly is an award-winning mindfulness app built with Flutter. It was feature
 
 ### Earthly (80 points)
 
-This is the ultimate challenge for a designer. The video provided for this shows a web page with eye-catching motion design made by an
+This is the ultimate challenge for a designer. The video provided for this shows a app with eye-catching motion design made by an
 experienced designer.
 
 You may choose to skip the animation part and design just the static
@@ -125,12 +125,12 @@ site, which will give you a maximum of 30 points.
 
 Designing the whole page with the motion design can get you 80 points!
 
-Required Pages: As shown in the video/gif
+Required Pages: As shown in the gif
 
 ![](https://i.imgur.com/MkwD39W.gif)
          
 
-Resources
+### Resources
 -----------
 Figma:
 
