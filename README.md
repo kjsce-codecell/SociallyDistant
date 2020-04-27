@@ -1,6 +1,6 @@
 # Socially Distant 🏠
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ### Hi folks!
 
@@ -50,6 +50,7 @@ Last but not the least, remember that we will get through this pandemic together
   <tr>
     <td align="center"><a href="https://github.com/RedHeadphone"><img src="https://avatars2.githubusercontent.com/u/55500003?v=4" width="100px;" alt=""/><br /><sub><b>Huzaifa Khilawala</b></sub></a><br /><a href="https://github.com/kjsce-codecell/SociallyDistant/commits?author=RedHeadphone" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ZalakBhojani"><img src="https://avatars1.githubusercontent.com/u/51584570?v=4" width="100px;" alt=""/><br /><sub><b>ZalakBhojani</b></sub></a><br /><a href="https://github.com/kjsce-codecell/SociallyDistant/commits?author=ZalakBhojani" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/heet9022"><img src="https://avatars0.githubusercontent.com/u/41733742?v=4" width="100px;" alt=""/><br /><sub><b>Heet Sakaria</b></sub></a><br /><a href="https://github.com/kjsce-codecell/SociallyDistant/commits?author=heet9022" title="Code">💻</a></td>
   </tr>
 </table>
 
