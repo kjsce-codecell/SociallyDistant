@@ -3,7 +3,7 @@
 Welcome to the second quarantine challenge by Codecell! This is the time to shine for you creative folks out there! Leverage your design skills to make a beautiful website or app.
 
 You are required to select either web or app design and create
-two designs explained below in either Adobe XD or Figma. Submit the
+atleast one design explained below in either Adobe XD or Figma. Submit the
 rendered images as well as the Adobe XD/Figma projects with us. Since Figma is an online tool, you can share the collaboration link.
 
 ![](https://i.imgur.com/mvnS8c2s.png)
@@ -139,3 +139,11 @@ designs](https://www.google.com/url?q=https://uxdesign.cc/figma-5-ways-to-add-an
 
 - [Auto-Animate: How to Create Automatic Animations in Adobe
 XD](https://www.google.com/url?q=https://theblog.adobe.com/auto-animate-how-to-create-automatic-animations-xd/&sa=D&ust=1587998211558000)
+
+- [Figma Official Resources](https://www.figma.com/resources/learn-design/)
+
+- [XD Templates](https://xdresources.co/)
+
+- [Applying Blur effect to graphics and text](https://helpx.adobe.com/in/xd/how-to/effects-graphics-text.html)
+
+- [Shadow and Blur](https://help.figma.com/hc/en-us/articles/360041488473-Apply-shadow-or-blur-effects)
