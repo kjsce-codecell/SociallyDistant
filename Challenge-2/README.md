@@ -11,7 +11,7 @@ rendered images as well as the Adobe XD/Figma projects with us. Since Figma is a
 
 Duration: 3 Days
 
-Submission: Discord (explain with link further)
+Submission Details: http://bit.ly/submission-details
 
 To be considered for evaluation, your design should have all the
 required pages. If you wish to add more pages on your own, you are free
