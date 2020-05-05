@@ -64,16 +64,19 @@ class Instagram:
     def likeComment(self, comment):
         driver = self.driver
         self.comment = comment
-        post = driver.find_element_by_xpath('//*[@id="react-root"]/section/main/div/div[5]/article/div[1]/div/div[1]/div[1]/a/div[1]/div[2]')
+        post = driver.find_element_by_xpath("//div[@class='_9AhH0']")
         time.sleep(1)
         post.click()
-        like = driver.find_element_by_xpath('/html/body/div[4]/div[2]/div/article/div[2]/section[1]/span[1]/button')
+        time.sleep(3)
+        like = driver.find_element_by_xpath("/html/body/div[4]/div[2]/div/article/div[2]/section[1]/span[1]/button")
         time.sleep(1)
         like.click()
-        comment = driver.find_element_by_xpath('/html/body/div[4]/div[2]/div/article/div[2]/section[1]/span[2]/button')
+        time.sleep(3)
+        comment = driver.find_element_by_css_selector("body > div._2dDPU.CkGkG > div.zZYga > div > article > div.eo2As > section.ltpMr.Slqrh > span._15y0l > button")
         time.sleep(1)
         comment.click()
-        commentArea = driver.find_element_by_xpath('/html/body/div[4]/div[2]/div/article/div[2]/section[3]/div/form/textarea')
+        time.sleep(2)
+        commentArea = driver.find_element_by_xpath("/html/body/div[4]/div[2]/div/article/div[2]/section[3]/div/form/textarea")
         time.sleep(1)
         commentArea.send_keys(self.comment)
         time.sleep(3)
